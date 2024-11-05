@@ -1,0 +1,5 @@
+.element {
+    color: #444; /* Set text color to dark gray */
+    background-color: #f0f0f0; /* Set background color to a light gray */
+    border: 1px solid #444; /* Set border color to dark gray */
+}
